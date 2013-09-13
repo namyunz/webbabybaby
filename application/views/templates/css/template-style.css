@@ -1,0 +1,19 @@
+@charset "utf-8";
+
+.wrapper
+{
+	min-height: 100%;
+	height: auto !important;
+}
+
+#footer
+{
+	height: 60px;
+	background-color: #FAFAFA;
+}
+
+.credit
+{
+	margin-top: 20px;
+	color: rgb(153,153,153);
+}

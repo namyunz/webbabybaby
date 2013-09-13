@@ -1,0 +1,26 @@
+﻿@charset "utf-8";
+
+.food_search_category {
+    width: 80px;
+}
+
+#inputSearch {
+    width: 150px;
+}
+
+.ph_num_first {
+    width: 80px;
+}
+
+.ph_num {
+    width: 80px;
+    margin-left: 6px;
+}
+
+#nui_name {
+    width: 100px;
+}
+
+.label_for_second_search {
+    width: 18%;
+}
